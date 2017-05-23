@@ -9,11 +9,12 @@
 	<string name="slide1_title">Welcome to Tutorialwing.com</string>
 	<string name="slide2_desc">Learn to develop mobile applications using popular programming languages like android, ios etc.</string>
 	<string name="slide2_title">Develop mobile applications</string>
-	<string name="get_started">Get Started</string>
 	<string name="slide3_desc">Learn to develop web applications using popular programming languages like javascript, html, css, angular etc.</string>
 	<string name="slide3_title">Develop web applications</string>
 	<string name="slide4_desc">Get some more interesting things on tutorialwing.... :)</string>
 	<string name="slide4_title">Want some more interesting stuffs?</string>
+
+	<string name="get_started">Get Started</string>
 	<string name="check_it_out">Check It Out</string>
 
 </resources>
